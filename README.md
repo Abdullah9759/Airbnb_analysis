@@ -48,3 +48,12 @@ For quick testing, a **sample dataset** (`airbnb_sample.csv`) is included in thi
    ```bash
    git clone https://github.com/yourusername/airbnb-data-analysis.git
    cd airbnb-data-analysis
+   
+2.**Install dependencies**
+  pip install -r requirements.txt
+
+3.**Run Jupyter Notebook**
+  jupyter notebook
+
+4.**Open and run airbnb_analysis.ipynb**
+

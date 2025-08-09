@@ -1,4 +1,3 @@
-# Airbnb_analysis
 # Airbnb Data Analysis Project
 
 ## 📌 Project Overview
@@ -10,7 +9,7 @@ The goal is to help hosts, travelers, and Airbnb understand factors influencing 
 
 ## 📂 Dataset Access
 The full dataset is too large to be stored directly on GitHub.  
-You can download it here: **[Google Drive Link](https://drive.google.com/file/d/1vd5p6mh8CQoct_HDHGjuQjAn67ivO_KN/view?usp=drive_link)** *(Replace with your link)*  
+You can download it here: **[Google Drive Link](https://drive.google.com/file/d/1vd5p6mh8CQoct_HDHGjuQjAn67ivO_KN/view?usp=drive_link)** 
 
 For quick testing, a **sample dataset** (`airbnb_sample.csv`) is included in this repository.
 
